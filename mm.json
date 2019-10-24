@@ -1,10 +1,3 @@
 [
-  {"lon":45.5591221,"lat":18.669606, "city":"Osijek", "adress":"Naselje A.G.Matoša 6"},
-  {"lon":45.558,"lat":18.667, "city":"Osijek", "adress":"Vijenac Ljube Babića 2"},
-  {"lon":45.5577504,"lat":18.668983, "city":"Osijek", "adress":"Ul. Vijenac Ljube Babića 5"},
-  {"lon":45.5586216,"lat":18.6738882, "city":"Osijek", "adress":"Zadarska ul. 21"},
-  {"lon":45.5590284,"lat":18.6695639, "city":"Osijek", "adress":"Naselje A.G.Matoša 2"},
-  {"lon":45.55909,"lat":18.66959, "city":"Osijek", "adress":"Naselje A.G.Matoša 4"},
-  {"lon":45.5591715,"lat":18.6696217, "city":"Osijek", "adress":"Naselje A.G.Matoša 8"},
-  {"lon":45.55924,"lat":18.66964, "city":"Osijek", "adress":"Naselje A.G.Matoša 10"}
+  {"lon":45.5591221,"lat":18.669606, "city":"Osijek", "adress":"Naselje A.G.Matoša 6"}
 ]
